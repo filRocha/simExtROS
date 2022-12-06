@@ -149,3 +149,11 @@ visualization_msgs/InteractiveMarkerUpdate
 visualization_msgs/Marker
 visualization_msgs/MarkerArray
 visualization_msgs/MenuEntry
+rosi_common/BoolArrayStamped
+rosi_common/DualQuaternionStamped
+rosi_common/Float32Array 
+rosi_common/Int8ArrayStamped
+rosi_common/TwistStamped
+rosi_common/Vector3Array
+rosi_common/Vector3ArrayStamped
+controller/Control

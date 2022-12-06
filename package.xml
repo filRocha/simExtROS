@@ -30,4 +30,6 @@
   <depend>visualization_msgs</depend>
   <depend>rosconsole</depend>
   <depend>roslib</depend>
+  <depend>rosi_common</depend>
+  <depend>controller</depend>
 </package>
